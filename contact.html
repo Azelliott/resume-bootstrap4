@@ -13,8 +13,9 @@
         (function(){
             emailjs.init("nS4nxz2OFMKUQZ5e9");
             var templateParams = {
-                        name: 'James',
-                        notes: 'Check this out!'
+                to_name: 'Rosie',
+                from_name: 'James',
+                message: 'Check this out!'
             };
  
             emailjs.send('service_9htuvvn', 'template_e0opvkn', templateParams)
