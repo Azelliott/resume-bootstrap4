@@ -1,6 +1,6 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-# Rosies Resume
+# Rosie's Resume
 
 Fictional Full Stack Developer resume page. It contains home page, resume page, contact page, interests page, GitHub page and download CV link. App is fully responsive and uses multiple API's.
 
